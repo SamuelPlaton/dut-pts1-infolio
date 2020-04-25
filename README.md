@@ -2,7 +2,7 @@
 
 **Nom du projet :** Infolio    
 **Type du projet :** Site web HTML / CSS    
-** Charge de travail :** Conception, développement et tests    
+**Charge de travail :** Conception, développement et tests    
 **Durée :** 1 semestre    
 **Equipe :** 5 personnes    
 **Rôle :** Chef de projet    
