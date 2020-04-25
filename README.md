@@ -7,4 +7,5 @@
 **Equipe :** 5 personnes    
 **Rôle :** Chef de projet    
 **But du livrable :** Informer sur les métiers et actualités autour de l'informatique    
-**Classement :** 1er sur 24 projets
+**Classement :** 1er sur 24 projets    
+**Lien :** http://samuelplaton.com/infolio/
