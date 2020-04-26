@@ -1,11 +1,11 @@
 # dut-pts1-infolio
 
-**Nom du projet :** Infolio    
-**Type du projet :** Site web HTML / CSS    
-**Charge de travail :** Conception, développement et tests    
-**Durée :** 1 semestre    
-**Equipe :** 5 personnes    
+**Nom du projet :** ZEBRA 524-D   
+**Type du projet :** Affiche de film sous Photoshop à partir d'une nouvelle   
+**Charge de travail :** Recherche, montage et documentation de l'affiche    
+**Durée :** 1 mois    
+**Modalité :** Individuel    
 **Rôle :** Chef de projet    
-**But du livrable :** Informer sur les métiers et actualités autour de l'informatique    
-**Classement :** 1er sur 24 projets    
-**Lien :** http://samuelplaton.com/infolio/
+**Inspiration de la nouvelle 'ZEBRA 524-D ou l'exode manqué :**   
+**Classement :** 1er sur 50 affiches    
+**Lien :** http://samuelplaton.com/photoshop-affiche/
